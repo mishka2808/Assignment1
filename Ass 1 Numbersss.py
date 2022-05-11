@@ -45,6 +45,6 @@ plt.hist(myNumbers)
 plt.show()
 
 """
-Completed on Thu May 10  10:35:10 2022
+Completed on Tue May 10  10:35:10 2022
 """
         
